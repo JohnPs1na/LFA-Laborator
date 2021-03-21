@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\LFA_Laborator.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\LFA_Laborator.dir/objects.a @CMakeFiles\LFA_Laborator.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\LFA_Laborator.dir/objects.a -Wl,--no-whole-archive  -o LFA_Laborator.exe -Wl,--out-implib,libLFA_Laborator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LFA_Laborator.dir\linklibs.rsp

@@ -1,0 +1,2 @@
+C:\Users\denih\source\repos\LFA\Debug\LFA.exe
+C:\Users\denih\source\repos\LFA\Debug\LFA.pdb

@@ -1,0 +1,7 @@
+﻿  LFA.cpp
+C:\Users\denih\source\repos\LFA\LFA.cpp(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\denih\source\repos\LFA\LFA.cpp(85,17): warning C4018: '>': signed/unsigned mismatch
+C:\Users\denih\source\repos\LFA\LFA.cpp(98,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\denih\source\repos\LFA\LFA.cpp(110,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\denih\source\repos\LFA\LFA.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+  LFA.vcxproj -> C:\Users\denih\source\repos\LFA\Debug\LFA.exe
